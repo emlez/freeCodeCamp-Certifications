@@ -1,6 +1,6 @@
 # freeCodeCamp(🔥) Courses
 
-Here I'll be uploading what I learn and practice along [freeCodeCamp.org](freecodecamp.org) courses.
+Here I'll be uploading what I learn and practice along [freeCodeCamp.org](https://www.freecodecamp.org/) courses.
 
 Following the learning path, I'll be starting with:
 
